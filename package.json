@@ -1,0 +1,27 @@
+{
+    "name": "easy-express-logger",
+    "version": "0.1.0",
+    "description": "An easy to use express logger",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/OussamaRomdhane/easy-express-logger.git"
+    },
+    "keywords": [
+        "logger",
+        "express",
+        "log"
+    ],
+    "engines": {
+        "node": ">=0.10"
+    },
+    "author": "Oussama Romdhane <contact@oussama-romdhane.com> (http://oussama-romdhane.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/OussamaRomdhane/easy-express-logger/issues"
+    },
+    "homepage": "https://github.com/OussamaRomdhane/easy-express-logger#readme"
+}
